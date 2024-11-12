@@ -1,4 +1,7 @@
-## Hi there 👋
+# 👨‍💻 About Me
+
+I'm a Software Engineer focused on the MERN stack, building user-centered web apps with **MongoDB**, **Express**, **React**, and **Node.js**.
+
 
 <!--
 **RibalBaghdadi/RibalBaghdadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
