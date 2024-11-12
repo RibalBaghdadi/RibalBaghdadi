@@ -3,7 +3,7 @@
 I'm a Software Engineer focused on the MERN stack, building user-centered web apps with **MongoDB**, **Express**, **React**, and **Node.js**.
 
 ## 🌐 Socials
-- [LinkedIn](https://www.linkedin.com/in/ribal-baghdadi-18ab08244/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ribal-baghdadi-18ab08244/)
 
 
 <!--
